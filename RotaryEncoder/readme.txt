@@ -1,0 +1,1 @@
+This project uses an Arduino Leonardo and a 600-PPR MBL3806 NPN optical encoder to create a high-precision steering system that tracks rotation via quadrature interrupt logic, providing 1,200 counts (0.3 resolution) per turn for racing simulators like WRC 8.
